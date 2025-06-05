@@ -31,7 +31,7 @@ const jafeth = {
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DARKTOTEM2703&theme=dark&layout=compact" alt="Top Langs" />
     </td>
     <td valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/?username=DARKTOTEM2703 &theme=dark"alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api/?username=DARKTOTEM2703&theme=dark"alt="GitHub Stats" />
     </td>
   </tr>
 </table>
